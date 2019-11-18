@@ -63,7 +63,7 @@ local module2
 local module3
 
 **** GEOGRAPHIC IDENTIFIERS ****
-global GeoID "level1 level2 level3 level4 EA"
+global GeoID "level1 level2 level3 EA"
 
 *Geographic Identifier lower than EA to household
 global GeoID_SH "structure household"
